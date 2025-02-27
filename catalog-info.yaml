@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Development"
+  annotations:
+    github.com/project-slug: dwessendorf/cc-env-Development
+    backstage.io/techdocs-ref: dir:.# Add this line
+spec:
+  type: service
+  owner: group:guests
+  lifecycle: experimental
