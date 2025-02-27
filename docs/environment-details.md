@@ -3,11 +3,9 @@
 ## Environment Information
 
 - **Name**: Development
-- **Cloud Provider**: {{ env_output.cloud_provider }}
-- **Region**: {{ env_output.region }}
-- **Environment ID**: {{ env_output.environment_id }}
+- **Environment ID**: env-oz316y
 
-The Environment ID will be automatically populated after the Terraform deployment completes successfully.
+The Environment ID was automatically populated after the Terraform deployment completed successfully.
 
 ## Access
 
